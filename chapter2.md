@@ -104,7 +104,7 @@ Meanwhile, everyone is becoming even more distinctive, especially in terms of th
 
 * 你说：你是……？（You are …?）
 * 对方接过来：李雷。（Michael Johnson.）
-* 你可能需要把名字记下来，所以接着说：雷电的雷？（Michael as Michael Jordon?)
+* 你可能需要把名字记下来，所以接着说：雷电的雷？（Michael as Michael Jordan?)
 * 对方说：是啊。（Correct.）
 * 你说：哦。（OK.）
 
